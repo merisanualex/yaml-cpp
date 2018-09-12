@@ -1,4 +1,4 @@
-- target: yaml-cpp
+- unit: yaml-cpp
   language: cpp
   type: static library
   compile flags:
