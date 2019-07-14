@@ -6,8 +6,6 @@
     - IgnoreLongLong
     - C++11
     - OptimizationsLevel2
-  include paths:
-    - include
   sources:
     - src/binary.cpp
     - src/convert.cpp
